@@ -100,12 +100,9 @@ The trained pipeline model was saved using **Joblib** for future use.
 ## Project Structure
 
 ```
-codtech
-   └── task1
         ├── customer-churn-project-data-churn.csv
         ├── task1_pipeline.ipynb
-        ├── models
-        │     └── churn_pipeline_model.pkl
+        ├── churn_pipeline_model.pkl
         └── README.md
 ```
 
